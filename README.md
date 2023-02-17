@@ -1,5 +1,6 @@
 # Bitcoin-Historical-Data
-Bitcoin Historical Data
+
+
 Bitcoin is a decentralized digital currency that operates without the need of financial system or government authorities. It utilizes peer-to-peer transfers on a digital network that records all cryptocurrency transactions.
 
 This analyzes how Bitcoin perfomed between 2015 and 2021
