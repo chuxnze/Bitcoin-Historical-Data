@@ -5,10 +5,17 @@ Bitcoin is a decentralized digital currency that operates without the need of fi
 This analyzes how Bitcoin perfomed between 2015 and 2021
 
 Data Analytics Tool: Microsoft PowerBI
+
 Total Bitcoin Volume: 23.07Million
+
 Total Currency Volume: 146.75Billion
+
 Month with Highest Trading: January
+
 Year with Highest Trading: 2015
+
 Year with Highest Margin: 2019
+
 Year with Least Margin: 2016
+
 Highest Weekday Trading: Wednesday
